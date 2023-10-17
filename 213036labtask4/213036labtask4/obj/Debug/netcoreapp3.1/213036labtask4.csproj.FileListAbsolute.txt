@@ -1,0 +1,13 @@
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\bin\Debug\netcoreapp3.1\213036labtask4.exe
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\bin\Debug\netcoreapp3.1\213036labtask4.deps.json
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\bin\Debug\netcoreapp3.1\213036labtask4.runtimeconfig.json
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\bin\Debug\netcoreapp3.1\213036labtask4.runtimeconfig.dev.json
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\bin\Debug\netcoreapp3.1\213036labtask4.dll
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\bin\Debug\netcoreapp3.1\213036labtask4.pdb
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\obj\Debug\netcoreapp3.1\213036labtask4.csprojAssemblyReference.cache
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\obj\Debug\netcoreapp3.1\213036labtask4.AssemblyInfoInputs.cache
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\obj\Debug\netcoreapp3.1\213036labtask4.AssemblyInfo.cs
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\obj\Debug\netcoreapp3.1\213036labtask4.csproj.CoreCompileInputs.cache
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\obj\Debug\netcoreapp3.1\213036labtask4.dll
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\obj\Debug\netcoreapp3.1\213036labtask4.pdb
+C:\Users\213036\source\repos\213036labtask4\213036labtask4\obj\Debug\netcoreapp3.1\213036labtask4.genruntimeconfig.cache
